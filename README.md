@@ -1,8 +1,9 @@
-## Ola! Eu sou o Cauan Barros, desenvolvedor full-stack em formação.
+## my name Cauan Barros, developer full-stack 
 
-- Atualmente estudo na trybe 
-- Estudando React 
-- Desenvolvedor Front-end
+- developer front-end
+- study back-and
+- Developer Full-stack
+- studying engineering software
 
 <div align="center">
   <a href=https://github.com/cauan-oss>
