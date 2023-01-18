@@ -1,4 +1,4 @@
-## my name Cauan Barros, developer full-stack 
+## My name Cauan Barros, developer full-stack 
 
 - developer front-end
 - study back-and
